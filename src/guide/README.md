@@ -1,5 +1,5 @@
 ---
-title: 指南
+title: 大陆旅游指南
 icon: lightbulb
 ---
 
@@ -7,10 +7,10 @@ icon: lightbulb
 
 ### Bar
 
-- [baz](bar/baz.md)
+- [吃](bar/baz.md)
 - ...
 
 ### Foo
 
-- [ray](foo/ray.md)
+- [住](foo/ray.md)
 - ...

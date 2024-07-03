@@ -1,16 +1,21 @@
 ---
 home: true
 icon: home
-title: 大陆旅游
-heroText: 湾湾二岸笔记
+title: 项目主页
+heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
+bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+bgImageStyle:
+  background-attachment: fixed
+heroText: 项目名称
 tagline: 你可以在这里放置或是整个项目的描述。
 actions:
   - text: 使用指南
     icon: lightbulb
-    link: ./wechat-alipay-guide/
+    link: ./demo/
     type: primary
 
-  - text: 指南
+  - text: 文档
     link: ./guide/
 
 highlights:
