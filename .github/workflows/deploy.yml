@@ -60,9 +60,9 @@ jobs:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN_WANZAIDABAO0724 }}
 
-- name: send default message
-  uses: appleboy/telegram-action@master
-  with:
-    to: ${{ secrets.TELEGRAM_TO }}
-    token: ${{ secrets.TELEGRAM_TOKEN }}
-    message: 已完成VuePress部署
+      - name: send default message
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: 已完成VuePress部署
