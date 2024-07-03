@@ -13,8 +13,8 @@ on:
 
 jobs:
     
-    # 任务的名称，不设置则默认my_first_job
-    docs:
+  # 任务的名称，不设置则默认my_first_job
+  docs:
     
     name: build-and-deploy
     
