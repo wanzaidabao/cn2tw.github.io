@@ -19,3 +19,4 @@ filter-list.txt
 **/*.pyc
 **/__pycache__/
 **/venv/
+**/.temp
