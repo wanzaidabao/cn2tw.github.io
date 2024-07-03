@@ -1,10 +1,10 @@
 ---
 home: true
 portfolio: true
-title: 档案主页
+title: 湾湾介绍
 icon: home
-welcome: 👋 你好，我是
-name: 江户川柯南
+welcome: 👋 大家好，我是
+name: 小灵通 湾湾
 avatar: https://theme-hope-assets.vuejs.press/hero/conan.png
 
 titles:
@@ -17,8 +17,14 @@ footer: false
 
 ## 介绍
 
-这是一个档案主页的案例。
+其实在数十年前，陆陆续续就有很多前辈前往大陆旅游，那时更富有壮游感。
 
-要使用此布局，你应该在页面 Frontmatter 中设置 `home: true` 和 `portfolio: true`。
+近廿年来，中国经济飞奔，随著资讯传递广泛，也有更多的旅游爱好前往大陆旅游。
 
-相关配置文档请见 [档案主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html#档案类型主页)。
+现今到大陆去旅游，最重要的就是`支付宝` 和 `微信支付`以及搭乘火车所需查验的`台胞证`或`台湾居民居住证`。
+
+湾湾因为工作关系，较常接解，所以将这些信息整理成文档，供各位朋友查阅使用。
+
+信息瞬变，若有需要改正之处，也请您不吝指教，让有需要的朋友能更便利，
+
+祝 大家 旅游安康
