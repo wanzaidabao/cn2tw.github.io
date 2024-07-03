@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/cn2tw_online/",
 
   lang: "zh-CN",
-  title: "文档演示",
-  description: "vuepress-theme-hope 的文档演示",
+  title: "湾湾的二岸笔记 GoPass",
+  description: "台湾人到大陆的生活指南",
 
   theme,
 
